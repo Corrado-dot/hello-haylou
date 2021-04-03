@@ -23,7 +23,7 @@
     <string name="menu_nav_theme">Tema</string>
 <!--    <string name="menu_nav_settings" type="string">@string/settings_name</string>-->
 
-    <string name="setting_name">Impostazioni</string>
+    <string name="setting_name">Impostazione</string>
     <string name="settings_name">Impostazioni</string>
     <string name="info_name">Informazioni</string>
     <string name="more_name">Di Più</string>
@@ -42,8 +42,8 @@
     <string name="device_mac_address">MAC address</string>
     <string name="device_mac_address_invalid">MAC address non valido</string>
 
-    <string name="device_state_connected">Connessa</string>
-    <string name="device_state_disconnected">Disconnessa</string>
+    <string name="device_state_connected">Connesso</string>
+    <string name="device_state_disconnected">Disconnesso</string>
     <string name="device_state_bonded">Dispositivo associato</string>
     <string name="device_state_not_bonded">Dispositivo non associato</string>
 
@@ -66,12 +66,12 @@
     <string name="mi_band_setting_auth_standalone_hint">L\'app %1$s non è richiesta per far funzionare %3$s. Dopo l\'accoppiamento, disinstallare l\'app %1$s. Nel caso si desideri ripristinare la cooperazione con %1$s, sarà necessario riaccoppiare %2$s nell\'app %1$s. If you use the unpair function, the data on the smartwatch will be deleted. The %2$s screen must be turned on while performing operations.</string>
 
     <string name="mi_band_setting_auth_key">Chiave di autenticazione</string>
-    <string name="mi_band_setting_auth_key_help">Enter any 4 numbers</string>
-    <string name="mi_band_setting_auth_request">Key request</string>
+    <string name="mi_band_setting_auth_key_help">Inserisci 4 numeri</string>
+    <string name="mi_band_setting_auth_request">Chiave richiesta</string>
     <string name="mi_band_setting_auth_pair">Associa</string>
-    <string name="mi_band_setting_auth_unpair">Unpair</string>
+    <string name="mi_band_setting_auth_unpair">Scollega</string>
 
-    <string name="message_auth_request">It is paired, if you do not know the key, use the unpair</string>
+    <string name="message_auth_request">Se è accoppiato e se non conosci la chiave, usa scollega</string>
 
     <string name="message_mi_band_setting_auth_press_band_button">Premere il pulsante su %1$s per accoppiare</string> <!-- %1$s = Watch name -->
     <string name="message_mi_band_setting_auth_success">%1$s accoppiato con successo</string>
@@ -85,12 +85,12 @@
     <string name="mi_band_setting_time_24h">Formato orario di 24 ore</string>
     <string name="mi_band_setting_distance_unit">Imposta l\'unità di misura per la distanza</string>
     <string name="mi_band_setting_lift_wrist">Solleva il polso per visualizzare le info</string>
-    <string name="mi_band_setting_screen_on_duration">Screen on duration</string>
+    <string name="mi_band_setting_screen_on_duration">Durata schermo orologio</string>
     <string name="mi_band_setting_idle_alert">Avviso sedentarietà</string>
     <string name="mi_band_setting_idle_alert_time">Tempo di inattività</string>
-    <string name="mi_band_setting_idle_alert_dnd">Modalità Non Disturbare (12:00-14:00)</string>
+    <string name="mi_band_setting_idle_alert_dnd">Modalità non disturbare (12:00-14:00)</string>
 
-    <string name="mi_band_setting_profile">This data is needed to correctly calculate the number of steps, distance, and burned calories</string>
+    <string name="mi_band_setting_profile">Questo dato è richiesto per calcolare il numero dei passi, distanza e calorie bruciate</string>
     <string name="mi_band_setting_gender">Sesso</string>
     <string name="mi_band_setting_gender_male">Maschio</string>
     <string name="mi_band_setting_gender_female">Femmina</string>
@@ -114,11 +114,11 @@
 
     <!-- PreferenceScreen -->
     <string name="pref_connected_have_notif_interval_title">Intervallo promemoria notifica</string>
-    <string name="pref_connected_have_notif_interval_summary">Notification/reminder signal function uses this timing</string>
+    <string name="pref_connected_have_notif_interval_summary">Ricordo/notifica usa questo timer</string>
 
     <string name="pref_synchronization">Sincronizzazione</string>
     <string name="pref_synchronization_fetch">Attività・Battiti</string>
-    <string name="pref_synchronization_fetch_interval">Synchronization frequency</string>
+    <string name="pref_synchronization_fetch_interval">Frequenza di sincronizzazione</string>
 
     <string name="pref_battery_phone">Batteria smartphone</string>
     <string name="pref_battery_phone_summary">Notifiche per batteria scarica e carica</string>
@@ -139,9 +139,9 @@
     <string name="pref_language_title">Lingua</string>
 
     <string name="pref_menu">Menu</string>
-    <string name="pref_cat_menu">Main menu bar</string>
-    <string name="pref_menu_item_2">Second menu item</string>
-    <string name="pref_menu_item_3">Third menu item</string>
+    <string name="pref_cat_menu">Barra menu principale</string>
+    <string name="pref_menu_item_2">Secondo menu</string>
+    <string name="pref_menu_item_3">Terzo menu</string>
 
 
     <!-- Snackbar Messages -->
